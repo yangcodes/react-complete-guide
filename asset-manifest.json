@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-complete-guide/tree/main/ExpenseTracker/static/css/main.f4de3b48.chunk.css",
+    "main.js": "/react-complete-guide/tree/main/ExpenseTracker/static/js/main.9d5560bf.chunk.js",
+    "main.js.map": "/react-complete-guide/tree/main/ExpenseTracker/static/js/main.9d5560bf.chunk.js.map",
+    "runtime-main.js": "/react-complete-guide/tree/main/ExpenseTracker/static/js/runtime-main.e44b0461.js",
+    "runtime-main.js.map": "/react-complete-guide/tree/main/ExpenseTracker/static/js/runtime-main.e44b0461.js.map",
+    "static/js/2.2cf72847.chunk.js": "/react-complete-guide/tree/main/ExpenseTracker/static/js/2.2cf72847.chunk.js",
+    "static/js/2.2cf72847.chunk.js.map": "/react-complete-guide/tree/main/ExpenseTracker/static/js/2.2cf72847.chunk.js.map",
+    "index.html": "/react-complete-guide/tree/main/ExpenseTracker/index.html",
+    "static/css/main.f4de3b48.chunk.css.map": "/react-complete-guide/tree/main/ExpenseTracker/static/css/main.f4de3b48.chunk.css.map",
+    "static/js/2.2cf72847.chunk.js.LICENSE.txt": "/react-complete-guide/tree/main/ExpenseTracker/static/js/2.2cf72847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e44b0461.js",
+    "static/js/2.2cf72847.chunk.js",
+    "static/css/main.f4de3b48.chunk.css",
+    "static/js/main.9d5560bf.chunk.js"
+  ]
+}
